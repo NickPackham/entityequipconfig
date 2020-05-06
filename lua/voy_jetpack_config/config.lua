@@ -1,6 +1,6 @@
 VOY_GM_Entity_Equip = {}
 
-VOY_GM_Entity_Equip_Version = 1
+VOY_GM_Entity_Equip_Version = 3
 
 VOY_GM_Entity_Equip_Jobs = {
 	["1"] = {
